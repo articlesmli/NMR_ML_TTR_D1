@@ -3,6 +3,6 @@
 - Article: https://doi.org/10.48550/arXiv.2506.01137
 
 - Raw data:
-- TTR:https://pubchem.ncbi.nlm.nih.gov/bioassay/1117267
-- D1: https://pubchem.ncbi.nlm.nih.gov/bioassay/504652
-- Aqua colubility: https://pubchem.ncbi.nlm.nih.gov/bioassay/1996 
+- TTR  https://pubchem.ncbi.nlm.nih.gov/bioassay/1117267
+- D1  https://pubchem.ncbi.nlm.nih.gov/bioassay/504652
+- Aqueous Solubility  https://pubchem.ncbi.nlm.nih.gov/bioassay/1996 
