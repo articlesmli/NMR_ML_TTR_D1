@@ -1,8 +1,1 @@
-# Comparative analysis of computational approaches for predicting Transthyretin transcription activators and human dopamine D1 receptor antagonists.
-
-- Article: https://doi.org/10.48550/arXiv.2506.01137
-
-- Raw data:
-- TTR  https://pubchem.ncbi.nlm.nih.gov/bioassay/1117267
-- D1  https://pubchem.ncbi.nlm.nih.gov/bioassay/504652
-- Aqueous Solubility  https://pubchem.ncbi.nlm.nih.gov/bioassay/1996 
+"Comparative Analysis of Computational Approaches for Predicting Transthyretin Transcription Activators and Human Dopamine D1 Receptor Antagonist", available at ArXiv, https://doi.org/10.48550/arXiv.2506.01137 
